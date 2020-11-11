@@ -1,0 +1,17 @@
+{
+  "name": "safestream-nodejs-server-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@safestream/safestream-javascript-sdk": "0.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "author": "Mike Delano",
+  "license": "MIT"
+}

@@ -1,7 +1,7 @@
 {
   "name": "safestream-nodejs-server-example",
   "version": "0.0.1",
-  "description": "",
+  "description": "This simple example shows the concept of creating dynamically watermarked video streams using SafeStream",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js"
@@ -13,5 +13,10 @@
     "nodemon": "1.18.4"
   },
   "author": "Mike Delano",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "streaming",
+    "watermark"
+  ]
 }

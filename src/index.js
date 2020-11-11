@@ -2,6 +2,8 @@ var http = require("http");
 var url = require("url")
 var SafeStream = require("@safestream/safestream-javascript-sdk").SafeStream
 
+// NOTE!!: Once you follow the steps below you can access the server at (https://<domain>?videoId=<YOUR_VIDEO_ID>&templateId=<YOUR_TEMPLATE_ID>)
+
 //
 // Step 1:
 //
